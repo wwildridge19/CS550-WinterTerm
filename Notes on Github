@@ -2,3 +2,84 @@ In your winter term repository, create a "Notes on Github" markdown file that is
 things we have covered in github so far. You can reference these notes in the future should you need to remind yourself
 of how to do something. These notes might include information on key terms, permissions for teams and organizations,
 or syncing from your computer and the app to github. 
+
+Sources of info:
+[link to helpful website] (https://www.coredna.com/blogs/what-is-git-and-github-part-two)
+
+Github study guide:
+
+
+Repositor are Used to organize a single project
+Includes a README
+
+Create a repository:
+Click + in top right
+Title and description
+Initialize with a README
+
+Branch:
+Work on different parts of a repository at a time
+
+Create a repository
+Click Branch Master
+Rename
+
+Commits:
+Click the right file
+Click pencil
+Change
+Commit changes
+
+Pull request:
+Create a pull request
+Click pull request
+Create new pull request
+Select right branch
+Create pull reques
+Description title
+
+How to merge pull request
+Click big green merge pull request button
+Confirm
+Delete
+
+How to Revert to past commit:
+Desktop
+History
+Right click on version “revert to this commit”
+
+How to do it all on desktop:
+Just save the branches to the Github folder on desktop and push it
+Add a description and title
+
+Markdown language:
+
+Check list
+- [x] This is a complete item
+- [ ] This is an incomplete item
+
+
+To make something bold:  **This is bolded with two asterisks on both sides**
+To italicize something:  *This is bolded with one asterisk on both sides*
+* Start a line with a star to make it a bullet point. Dashes also function as bullet points
+	*Sub point. Just tab in
+If you want to embed images, this is how you do it:
+! [Image of Yaktocat] (https://octodex.github.com/images/yaktocat.png)
+##Use hashtags at the beginning of header for size of the headers. 6 is the most you can have.
+Use  >  before the line to make a block quote.
+~~This gets striked through~~    This gets striked through
+First Header | Second Header
+------------ | -------------
+Content from cell 1 | Content from cell 2
+Content in the first column | Content in the second column
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+
+
+All else: 
+https://guides.github.com/features/mastering-markdown/ 
+
+
